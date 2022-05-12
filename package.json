@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/joshuafontany/Guildwiki/issues"
   },
-  "homepage": "https://github.com/joshuafontany/Guildwiki#readme"
+  "homepage": "https://github.com/joshuafontany/Guildwiki#readme",
+  "dependencies": {
+    "tiddlywiki": "^5.2.2"
+  }
 }
