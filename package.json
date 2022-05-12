@@ -1,0 +1,24 @@
+{
+  "name": "guildwiki",
+  "version": "1.0.0",
+  "description": "A realtime multi-user wiki server using Fission, Tiddlywiki, and Yjs",
+  "main": "guildwiki.js",
+  "scripts": {
+    "test": "nodemon guildwiki.js  && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuafontany/Guildwiki.git"
+  },
+  "keywords": [
+    "Fission",
+    "Tiddlywiki",
+    "Yjs"
+  ],
+  "author": "joshuafontany <joshua.fontany@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuafontany/Guildwiki/issues"
+  },
+  "homepage": "https://github.com/joshuafontany/Guildwiki#readme"
+}
