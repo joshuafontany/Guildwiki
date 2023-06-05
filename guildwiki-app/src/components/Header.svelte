@@ -35,7 +35,7 @@
         class="flex items-center cursor-pointer gap-3"
         on:click={() => goto('/')}
       >
-        <BrandLogo />
+        <BrandLogo id="brand-logo-gradient-1" />
       </div>
     {/if}
   </div>
@@ -46,7 +46,7 @@
       class="hidden lg:flex flex-1 items-center cursor-pointer gap-3"
       on:click={() => goto('/')}
     >
-      <BrandLogo />
+      <BrandLogo id="brand-logo-gradient-2" />
     </div>
   {/if}
 

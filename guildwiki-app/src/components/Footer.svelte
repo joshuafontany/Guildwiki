@@ -16,13 +16,13 @@
         ? 'text-orange-500'
         : 'text-transparent bg-clip-text bg-gradient-to-r from-orange-300 to-orange-600'}"
     >
-      *** Experimental *** - You are currently previewing ODD SDK Alpha 0.2
+      *** Experimental *** - You are currently previewing GuildWiki Alpha 0.1.0
     </p>
   {:else}
     <p
       class="motion-safe:animate-marquee motion-safe:left-full whitespace-nowrap font-bold text-xxs text-[#DD1F13]"
     >
-      *** Experimental *** - You are currently previewing ODD SDK Alpha 0.2
+      *** Experimental *** - You are currently previewing GuildWiki Alpha 0.1.0
     </p>
   {/if}
 </div>
