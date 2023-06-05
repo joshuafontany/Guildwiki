@@ -10,6 +10,15 @@
   <h1 class="text-xl">Welcome, {$sessionStore.username.trimmed}!</h1>
 
   <div class="flex flex-col items-start justify-center gap-5">
+    <h2 class="text-lg">GuildWiki Demo</h2>
+    <p>
+      The ODD SDK makes it easy to implement private, encrypted, user-owned
+      storage in your app. See it in action with our GuildWiki demo.
+    </p>
+    <a class="btn btn-primary" href="/wikis">Try the GuildWiki Demo</a>
+  </div>
+
+  <div class="flex flex-col items-start justify-center gap-5">
     <h2 class="text-lg">Photo Gallery Demo</h2>
     <p>
       The ODD SDK makes it easy to implement private, encrypted, user-owned
