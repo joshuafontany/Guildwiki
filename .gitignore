@@ -15,4 +15,10 @@
 
 # End of https://www.gitignore.io/api/visualstudiocode
 
+### VisualStudio ###
+.vs/*
+
+### TestUsers ###
+/test
+
 /node_modules
