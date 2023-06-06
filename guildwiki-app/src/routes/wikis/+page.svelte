@@ -7,8 +7,8 @@
   import Dropzone from '$routes/gallery/components/upload/Dropzone.svelte'
   import ImageGallery from '$routes/gallery/components/imageGallery/ImageGallery.svelte'
   
-  import WikiList from '$routes/wikis/components/wikis/WikiList.svelte';
-  import WikiFrame from '$routes/wikis/components/wikis/WikiFrame.svelte';
+  import WikiList from '$components/wikis/WikiList.svelte';
+  import WikiFrame from '$components/wikis/WikiFrame.svelte';
 
   let activeWiki = '';
 
