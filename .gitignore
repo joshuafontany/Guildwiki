@@ -19,6 +19,6 @@
 .vs/*
 
 ### TestUsers ###
-/test
+/testusers
 
 /node_modules
